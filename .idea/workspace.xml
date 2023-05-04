@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="11b5ab97-f763-42ca-aebe-b229cc6d44f7" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Empty-Application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Empty-Application.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ruby-version" beforeDir="false" afterPath="$PROJECT_DIR$/.ruby-version" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +31,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/hp/RubymineProjects/Empty-Check",
+    "last_opened_file_path": "/home/hp/RubymineProjects/Empty-Application",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,6 +61,8 @@
       <workItem from="1682697947451" duration="1286000" />
       <workItem from="1683094797824" duration="1708000" />
       <workItem from="1683106573333" duration="182000" />
+      <workItem from="1683192321049" duration="136000" />
+      <workItem from="1683192467619" duration="337000" />
     </task>
     <servers />
   </component>
